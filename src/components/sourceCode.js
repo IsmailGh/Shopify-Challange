@@ -10,7 +10,7 @@ const StyledCopyright = styled.a`
 
 export const SourceCode = () => (
   <StyledCopyright
-    href="https://github.com/IsmailGh/ShopifyChallange"
+    href="https://github.com/IsmailGh/Shopify-Challange"
     target="_blank"
     rel="nofollow noopener noreferrer"
   >
